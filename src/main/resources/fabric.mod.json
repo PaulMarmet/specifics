@@ -1,0 +1,32 @@
+{
+	"schemaVersion": 1,
+	"id": "specifics",
+	"version": "${version}",
+	"name": "Specifics",
+	"description": "Specific changes for the server :)",
+	"authors": [
+		"Paul Marmet"
+	],
+	"contact": {
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/specifics/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.pm.Specifics"
+		]
+	},
+	"mixins": [
+		"specifics.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
