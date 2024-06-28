@@ -1,4 +1,4 @@
-package net.pm;
+package net.pm.specifics;
 
 import eu.midnightdust.lib.config.MidnightConfig;
 

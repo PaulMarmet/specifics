@@ -9,12 +9,12 @@
 	],
 	"contact": {
 	},
-	"license": "CC0-1.0",
+	"license": "ARR",
 	"icon": "assets/specifics/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.pm.Specifics"
+			"net.pm.specifics.Specifics"
 		]
 	},
 	"mixins": [

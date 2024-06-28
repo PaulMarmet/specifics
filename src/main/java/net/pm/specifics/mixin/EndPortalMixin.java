@@ -1,4 +1,4 @@
-package net.pm.mixin;
+package net.pm.specifics.mixin;
 
 import net.minecraft.block.EndPortalBlock;
 import net.minecraft.entity.Entity;
@@ -11,7 +11,7 @@ import net.minecraft.util.math.Vec3d;
 import net.minecraft.world.TeleportTarget;
 import net.minecraft.world.World;
 import net.minecraft.world.gen.feature.EndPlatformFeature;
-import net.pm.SpecificsConfig;
+import net.pm.specifics.SpecificsConfig;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Overwrite;
 

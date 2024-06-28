@@ -1,4 +1,4 @@
-package net.pm;
+package net.pm.specifics;
 
 import eu.midnightdust.lib.config.MidnightConfig;
 import net.fabricmc.api.ModInitializer;
@@ -8,7 +8,7 @@ import org.slf4j.LoggerFactory;
 
 public class Specifics implements ModInitializer {
 	public static final String MOD_ID = "specifics";
-    public static final Logger LOGGER = LoggerFactory.getLogger("specifics");
+    public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
 	@Override
 	public void onInitialize() {
