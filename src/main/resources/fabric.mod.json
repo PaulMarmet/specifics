@@ -17,6 +17,7 @@
 			"net.pm.specifics.Specifics"
 		]
 	},
+	"accessWidener" : "specifics.accesswidener",
 	"mixins": [
 		"specifics.mixins.json"
 	],
