@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "specifics:acacia_ladder",
+    "specifics:bamboo_ladder",
+    "specifics:birch_ladder",
+    "specifics:cherry_ladder",
+    "specifics:crimson_ladder",
+    "specifics:dark_oak_ladder",
+    "specifics:jungle_ladder",
+    "specifics:mangrove_ladder",
+    "specifics:oak_ladder",
+    "specifics:spruce_ladder",
+    "specifics:warped_ladder"
+  ]
+}

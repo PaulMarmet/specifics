@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "specifics:acacia_bookshelf",
+    "specifics:bamboo_bookshelf",
+    "specifics:birch_bookshelf",
+    "specifics:cherry_bookshelf",
+    "specifics:crimson_bookshelf",
+    "specifics:dark_oak_bookshelf",
+    "specifics:jungle_bookshelf",
+    "specifics:mangrove_bookshelf",
+    "specifics:oak_bookshelf",
+    "specifics:spruce_bookshelf",
+    "specifics:warped_bookshelf"
+  ]
+}

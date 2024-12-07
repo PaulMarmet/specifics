@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:trapped_chest",
+    "specifics:oak_trapped_chest",
+    "specifics:spruce_trapped_chest",
+    "specifics:birch_trapped_chest",
+    "specifics:jungle_trapped_chest",
+    "specifics:acacia_trapped_chest",
+    "specifics:dark_oak_trapped_chest",
+    "specifics:mangrove_trapped_chest",
+    "specifics:cherry_trapped_chest",
+    "specifics:bamboo_trapped_chest",
+    "specifics:crimson_trapped_chest",
+    "specifics:warped_trapped_chest"
+  ]
+
+}

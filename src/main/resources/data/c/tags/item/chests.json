@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:chest",
+    "specifics:oak_chest",
+    "specifics:spruce_chest",
+    "specifics:birch_chest",
+    "specifics:jungle_chest",
+    "specifics:acacia_chest",
+    "specifics:dark_oak_chest",
+    "specifics:mangrove_chest",
+    "specifics:cherry_chest",
+    "specifics:bamboo_chest",
+    "specifics:crimson_chest",
+    "specifics:warped_chest"
+  ]
+
+}

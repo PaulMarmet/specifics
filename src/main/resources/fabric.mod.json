@@ -15,6 +15,9 @@
 	"entrypoints": {
 		"main": [
 			"net.pm.specifics.Specifics"
+		],
+		"client": [
+			"net.pm.specifics.SpecificsClient"
 		]
 	},
 	"accessWidener" : "specifics.accesswidener",

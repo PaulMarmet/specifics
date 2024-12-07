@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:ladders"
+    }
+  ],
+  "result": {
+    "id": "minecraft:ladder",
+    "count": 1
+  }
+}

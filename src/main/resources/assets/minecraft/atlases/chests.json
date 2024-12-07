@@ -1,0 +1,9 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "specifics_variant_chests",
+      "prefix": "specifics_variant_chests/"
+    }
+  ]
+}
